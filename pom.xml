@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Acada Learning Releases Nexus Repository</name>
-	      <url>http://172.31.21.169:8081/repository/Pipeline-Jenkins-release/</url>
+	      <url>http://3.17.138.245:8081/repository/DevOps-Jenkins-Project-Release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Acada Learning Snapshot Nexus Repository</name>
-	      <url>http://172.31.21.169:8081/repository/Pipeline-Jenkins-snapshot//</url>
+	      <url>http://3.17.138.245:8081/repository/DevOps-Jenkins-Project-Snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
